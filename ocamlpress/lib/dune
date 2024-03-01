@@ -1,0 +1,3 @@
+(library
+ (name ocamlpress)
+ (libraries omd cohttp lwt fsnotify cmdliner))

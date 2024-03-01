@@ -1,0 +1,6 @@
+# dune init proj ocamlpress --libs=omd,cohttp,lwt,fsnotify,cmdliner
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/chizy/.cache/dune/db
+# Workspace root: /Users/chizy/Desktop/ocamlpress/ocamlpress
+# Auto-detected concurrency: 10
