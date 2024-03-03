@@ -1,4 +1,4 @@
-# OcamlPress - [TODO] Still setting up
+# OcamlPress
 
 OcamlPress is a static site generator (SSG) built in OCaml, designed to transform markdown documents into a fully functional website. It's tailored for developers who appreciate the simplicity and power of OCaml and Markdown for generating static content.
 
