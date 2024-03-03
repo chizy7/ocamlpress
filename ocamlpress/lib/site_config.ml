@@ -1,1 +1,1 @@
-# Site configuration handling
+(* Site configuration handling *)

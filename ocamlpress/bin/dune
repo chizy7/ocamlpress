@@ -1,4 +1,4 @@
 (executable
  (public_name ocamlpress)
  (name main)
- (libraries ocamlpress omd cohttp lwt fsnotify cmdliner))
+ (libraries ocamlpress omd cohttp lwt cmdliner))

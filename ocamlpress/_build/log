@@ -1,6 +1,23 @@
-# dune init proj ocamlpress --libs=omd,cohttp,lwt,fsnotify,cmdliner
+# dune exec bin/main.exe
 # OCAMLPARAM: unset
 # Shared cache: disabled
 # Shared cache location: /Users/chizy/.cache/dune/db
 # Workspace root: /Users/chizy/Desktop/ocamlpress/ocamlpress
 # Auto-detected concurrency: 10
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; installed_env =
+#      map
+#        { "INSIDE_DUNE" :
+#            "/Users/chizy/Desktop/ocamlpress/ocamlpress/_build/default"
+#        ; "OCAML_COLOR" : "always"
+#        ; "OPAMCOLOR" : "always"
+#        }
+#  ; instrument_with = []
+#  }
+$ /opt/homebrew/bin/ocamlc.opt -config > /var/folders/10/f374s4xs5lnftk8pnkytjqq40000gn/T/dune_30e000_output

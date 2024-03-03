@@ -1,9 +1,6 @@
-# Lib - core functionalities
+(* lib/markdown.ml -> Markdown processing *)
 
-# Markdown processing
-
-(* lib/markdown.ml *)
-open Omd
+(* open Omd *)
 
 let markdown_to_html (input_markdown : string) : string = 
     input_markdown |> Omd.of_string |> Omd.to_html

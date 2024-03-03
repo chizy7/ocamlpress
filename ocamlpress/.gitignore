@@ -1,3 +1,20 @@
+# OCaml artifacts
 _build/
-*.log
+*.byte
 etc.
+
+# Dune artifacts
+.dune/
+*.install
+
+# OPAM artifacts
+_opam/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*~
+.DS_Store

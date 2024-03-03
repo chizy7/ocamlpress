@@ -1,1 +1,1 @@
-# Site generation logic
+(* Site generation logic *)

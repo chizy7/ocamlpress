@@ -1,1 +1,1 @@
-# Template processing
+(* Template processing *)
